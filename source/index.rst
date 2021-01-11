@@ -48,6 +48,14 @@ This guide is intended to help company administrators set up and manage Skribble
 
 .. toctree::
    :maxdepth: 2
+   :caption: Integrations
+
+   add/googledrive
+   add/msonedrive
+   
+
+.. toctree::
+   :maxdepth: 2
    :caption: AES for Business:
 
    aes/AESproduct
@@ -59,3 +67,6 @@ This guide is intended to help company administrators set up and manage Skribble
    :caption: Managing API Keys:
 
    api/apicreate
+
+
+   
