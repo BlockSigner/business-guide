@@ -1,4 +1,4 @@
-.. _msonedrive:
+.. _add-msonedrive:
 
 ==============================================
 Setting up signing with Skribble from OneDrive
