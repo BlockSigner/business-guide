@@ -30,10 +30,7 @@ Visual signatures serve as an optional element and don't affect the legal weight
 From here, you can customise the following details:
   - **Name**: Your first and last name
   - **Optional line** and **City**: Optional lines for extra information such as company, function or name
-  - **Date**: The date when the document was signed
-  
-  Available to Skribble Enterprise and Skribble Business customers only:
-  
+  - **Date**: The date when the document was signed  
   - **QR code**: Leads to the `website`_ that explains the e-signature standards
   - **Claim and label**: "Signed with Skribble.com" claim along with an icon of the e-signature standard used
   
