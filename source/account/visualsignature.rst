@@ -53,8 +53,3 @@ Not sure how to create your personal visual signature? Have a look at our `Help 
   
    .. _Help Center: https://help.skribble.com/-en-creating-visual-signature
    
-
-.. NOTE::
-   Don't see all the customisation options? Your current plan might not support it. Please contact our support team for help: support@skribble.com.
-   
-   
