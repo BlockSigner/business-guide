@@ -3,21 +3,16 @@
 =============================
 Customising Visual Signatures
 =============================
- 
-Members of Skribble Enterprise and Skribble Business can customise the appearance of their visual signature to suit individual needs. 
 
 .. NOTE::
    The visual signature serves as an optional element and doesn't affect the legal weight of the electronic signature. It is up to members to decide whether they want to add their visual signature to a document in addition to the electronic signature or not.
- 
 
-To customise the visual signature:
+Members of Skribble Enterprise and Skribble Business can customise the appearance of their visual signature to suit individual needs. As an admin, you can set a uniform visual signature for all Skribble Business members. This is a great way to ensure a consistent look and feel across the organisation. Get in touch with our team at `info@skribble.com`_ for more information.
 
-- Click the **My Skribble** icon from the Skribble Business dashboard (for admins)
+.. _info@skribble.com: info@skribble.com
+   
 
-
-.. image:: 1-biz_dashboard.png
-    :class: with-shadow
-
+**A step-by-step guide for your members to customise their visual signature.**
 
 - Click **Profile** in the lower-left
 
