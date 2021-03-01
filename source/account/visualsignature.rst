@@ -5,12 +5,11 @@ Customising Visual Signatures
 =============================
 
 .. NOTE::
-   The visual signature serves as an optional element and doesn't affect the legal weight of the electronic signature. It is up to members to decide whether they want to add the visual signature to a document next to the electronic signature.
-
-As an admin, you can set a uniform visual signature for all Skribble Business members. This is a great way to ensure a consistent look and feel across the organisation. Get in touch with our team at `info@skribble.com`_ for more information.
-
-.. _info@skribble.com: info@skribble.com
+   As an admin, you can set a uniform visual signature for all Skribble Business members to ensure a consistent look and feel across the organisation. Contact us at `info@skribble.com`_ for more information. 
    
+.. _info@skribble.com: info@skribble.com
+
+Visual signatures serve as an optional element and don't affect the legal weight of the electronic signature. It is up to members to decide whether they want to add the visual signature to a document next to the electronic signature.
 
 **A step-by-step guide for your members to customise their visual signature.**
 
