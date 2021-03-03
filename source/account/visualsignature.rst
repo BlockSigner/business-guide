@@ -1,8 +1,8 @@
 .. _account-visualsignature:
 
-===============================
+================================
 Customising Visual Signatures 🆕
-===============================
+================================
  
 Members of Skribble Enterprise and Skribble Business can customise the appearance of their visual signature to suit individual needs. 
 
