@@ -50,7 +50,7 @@ From here, you can customise the following details:
     :class: with-shadow
 
 
-Not sure how to create your personal visual signature? Have a look at our `Help Center`_.
+Not sure how to create your visual signature? Learn more in our `Help Center`_.
   
    .. _Help Center: https://help.skribble.com/-en-creating-visual-signature
    
