@@ -5,7 +5,7 @@ Customising Visual Signatures
 =============================
 
 .. NOTE::
-   As an admin, you can set a uniform visual signature for all employees to ensure a consistent look and feel across the company. Contact us at `info@skribble.com`_ for more information. Only available to Skribble Enterprise customers.
+   As an admin, you can set a uniform visual signature for all employees to ensure a consistent look and feel across the company. Contact us at `info@skribble.com`_ for more information. This feature is only available to Skribble Enterprise customers.
       
 .. _info@skribble.com: info@skribble.com
 
