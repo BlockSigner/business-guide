@@ -9,8 +9,6 @@ Customising Visual Signatures
       
 .. _info@skribble.com: info@skribble.com
 
-<button class="ma-btn ma-btn--small ma-btn--primary-without-bg">Start Now</button>
-
 Visual signatures serve as an optional element and don't affect the legal weight of the electronic signature. It is up to members to decide whether they want to add the visual signature to a document next to the electronic signature.
 
 **A step-by-step guide for your members to customise their visual signature.**
