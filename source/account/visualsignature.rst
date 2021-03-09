@@ -1,7 +1,7 @@
 .. _account-visualsignature:
 
 ================================
-Customising Visual Signatures 🆕
+Customising Visual Signatures 📌
 ================================
 
 .. NOTE::
