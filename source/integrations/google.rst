@@ -1,8 +1,8 @@
 .. _google:
 
-========================================
-Setting up signing from Google Drive 🆕
-========================================
+====================================
+Set up signing from Google Drive 🆕
+====================================
 
 .. NOTE::
  Skribble Electronic Signature plug-in is only available to Skribble Business customers. If you haven't set up Skribble Business yet, you can do it on my.skribble.com. Check this `guide`_ for help.
