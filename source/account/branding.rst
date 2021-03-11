@@ -1,8 +1,8 @@
 .. _account-branding:
 
-==========================
-Adding Company Branding 📌
-==========================
+===========================
+Adding Company Branding 🆕
+===========================
 
 .. NOTE::
   To request company branding, please contact our team at support@skribble.com. We'll be happy to assist you.
