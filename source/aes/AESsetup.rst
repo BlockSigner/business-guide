@@ -5,11 +5,10 @@ Setting up AES for Business
 ===========================
 
 To complete registration for AES for Business, you will need to provide the following information:
-  - Domain which should enable signing with AES (e.g. yourcompany.com)
   - Trade register number of your organisation
   - Name and e-mail address of an internal contact person
+  - (Optional) Domain which should enable signing with AES (e.g. yourcompany.com)
 
-Please note that registering a domain incurs a one-time setup fee. Pricing is shown during the registration process described below.
 
 Registering your company for AES for Business
 ---------------------------------------------
@@ -46,12 +45,24 @@ You will be taken to a form to provide information necessary to register for AES
 
 **This is what happens next:**
 
-- Our support team will send you two documents to be signed:
+- You will receive two documents to sign:
 
-1. Customer Digital Signing Service Acknowledgement and Agreement. Please sing this docuemtn with AES or QES.
-2. GlobalSign Terms of Use. Please sign this document with SES, AES or QES.
+1. GlobalSign Schedule C Document (Customer Digital Signing Service Acknowledgement and Agreement). Darauf hinweisen, dass der Zeichnungsberechtigter unterschreibt.. 
+Sgn this document with AES or QES. 
 
-- Our partner GlobalSign will contact you to verify the company details you have provided. 
+Important for the customer: 2.1	Individual Internal Identities (den Kunden darauf hinweisen); 2.2. ist nicht relevant.
+
+2. GlobalSign Terms of Use
+
+Sobald wir die Dokumente haben, stellen wir einen Antrag auf Company Vetting (bei GS). 
+
+- Our partner GlobalSign will contact you to verify the company details you have provided. If you have a domain, it will be verified separately to prove your control of the ownership. (Beweisführung, dass er die Kontrolle über die Domäne hat). Das kann etwas mehr Zeit in Anspruch nehmen. 
+
+- Nach erfolgreicher Vetting, kriegt Skribble die Zugangsdaten und richtet FES für Business ein. 
+ 
+ - Zum Prüfen, dass alles korrekt eingerichtet wurde, erhällt der Administrator eine Signatureinladung. Sobald der Admin erfolgreich unterschieben hat, steht FES für Business für alle Skribble Business-Mitglieder bereit.
+ 
+
 
 
 
