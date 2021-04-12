@@ -44,9 +44,9 @@ This document must be signed with the advanced (AES) or qualified (QES) electron
 
 - Once both documents are signed, we will send them for verification to our partner GlobalSign.
 
-- GlobalSign may contact you by e-mail or phone to verify that you have the control over your domain.
+- GlobalSign may contact you by e-mail or phone to verify that you have the control over your company domain.
 
-**It is important that you reply to GlobalSign to complete the verification process.** If you don't, we won't be able to start setting up AES for Business for your company. This process may take a few more days. 
+**It is important that you reply to GlobalSign to prove that you control your domain.** If you don't, we won't be able to start setting up AES for Business for your company. This process may take a few more days. 
 
 - Once GlobalSign has successfully verified your company details, we will set up AES for Business for your company. 
 
