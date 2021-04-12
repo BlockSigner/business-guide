@@ -34,7 +34,7 @@ Once you submit the form, the AES for Business registration will start.
 
 - Next, you will receive 2 documents to sign.
 
- **If you are not authorised to sign these documents on behalf of your company, please send them to the authorised signatory.**
+**If you are not authorised to sign these documents on behalf of your company, please send them to the authorised signatory.**
 
  •	**GlobalSign Schedule C** (Customer Digital Signing Service Acknowledgement and Agreement)
 
