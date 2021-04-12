@@ -43,17 +43,17 @@ You will be taken to a form to provide information to register your company for 
 
 - You will receive 2 documents to sign:
 
- •	**GlobalSign Schedule C** (Customer Digital Signing Service Acknowledgement and Agreement)
+ •	**GlobalSign Schedule C**: Customer Digital Signing Service Acknowledgement and Agreement (The article 2.1 is relevant to your company.)
 
-This document must be signed with the advanced (AES) or qualified (QES) electronic signature. If you are not authorised to sign this document on behalf of your company, please send it to the authorised signatory. The article 2.1 is relevant to you.
+This document must be signed with the advanced (AES) or qualified (QES) electronic signature. If you are not authorised to sign it on behalf of your company, please send the document to the authorised signatory.
 
  •	**GlobalSign Terms of Use**
 
-- Once the documents are signed, we will send them for verification (*vetting process*) to our partner GlobalSign.
+- Once both documents are signed, we will send them to our partner GlobalSign.
 
-- GlobalSign will contact you to verify your company details.
+- Then GlobalSign will contact you to verify your company details.
 
-If you have a domain, it will be verified separately to prove that you have control over this domain. Please be aware that this process may take a few days.
+If you have a domain, GlobalSign will verify whether you have control over the domain. Please be aware that domaon verification may take a few more days.
 
 - Once GlobalSign has successfully verified your company details, we will set up AES for Business for your company. 
 
