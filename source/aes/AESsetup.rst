@@ -28,11 +28,9 @@ To set up AES for Business:
 .. image:: aes_register2.png
     :class: with-shadow
 
-- You will be taken to a form to enter your company details
+- You will be taken to a form to provide your company details
 
-Once you submit the form, the AES for Business registration will start. 
-
-- Next, you will receive 2 documents to sign
+- Once you submit the form, the AES for Business registration will start and you will receive 2 documents to sign
 
  •	**GlobalSign Schedule C** (Customer Digital Signing Service Acknowledgement and Agreement)
 
