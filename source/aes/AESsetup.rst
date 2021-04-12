@@ -5,7 +5,7 @@ Setting up AES for Business
 ===========================
 
 .. NOTE::
-  Setting up AES for Business takes 4-6 weeks. For more information on pricing, please visit our `Pricing page`_.
+  Please be aware that setting up AES for Business may take up to 4-6 weeks. For more information on pricing, please visit our `Pricing page`_.
 
 .. _Pricing page: https://www.skribble.com/en/pricing/
   
@@ -35,11 +35,9 @@ To set up AES for Business:
 .. image:: aes_register2.png
     :class: with-shadow
 
-You will be taken to a form to enter your company details. Once you submit the form, the AES for Business registration will start. 
+- You will be taken to a form to enter your company details. Once you submit the form, the AES for Business registration will start. 
 
-**What happens next?**
-
-- You will receive 2 documents to sign:
+- You will then receive 2 documents to sign:
 
  1. **GlobalSign Schedule C**: Customer Digital Signing Service Acknowledgement and Agreement (Article 2.1 is relevant to your company.)
 
@@ -51,9 +49,9 @@ This document must be signed with the advanced (AES) or qualified (QES) electron
 
 - Once both documents are signed, we will send them to our partner GlobalSign.
 
-- GlobalSign will then contact you by e-mail or phone to verify your company details.
+- GlobalSign will contact you by e-mail or phone to verify your company details.
 
-If you have a domain, GlobalSign will verify whether you have control over the domain. Please be aware that domain verification may take a few more days.
+**You must reply to GlobalSign to complete the data verification.** Please be aware that GlobalSign may also verify whether you have control over your company domain. This process may take a few more days. 
 
 - Once GlobalSign has successfully verified your company details, we will set up AES for Business for your company. 
 
