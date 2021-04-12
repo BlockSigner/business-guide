@@ -44,13 +44,13 @@ This document must be signed with the advanced (AES) or qualified (QES) electron
  
 Signing with a simple electronic signature (SES) is enough for this document.
 
-**If you are not authorised to sign these documents on behalf of your company, please send them to the authorised signatory.**
+**If you are not authorised to sign these documents, please send them to the authorised signatory.**
  
 - Once both documents are signed, we will send them for verification to our partner GlobalSign
 
 - If you have provided your company domain during the registration, GlobalSign will contact you by e-mail or phone to verify whether you have full control over your domain.
 
-**We strongly recommend verifying your domain with GlobalSign as soon as possible.** If you don't, there will be delayy in the AES for Business set up. 
+**You must reply to GlobalSign to prove that you fully control your domain.** If you don't, we will not be able to start setting up AES for Business for your company.
 
 - Once GlobalSign has successfully verified your company details, we will set up AES for Business for your company
 
