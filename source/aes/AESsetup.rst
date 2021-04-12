@@ -23,21 +23,16 @@ To set up AES for Business:
     :class: with-shadow
 
 
-- Click **AES for business**
-
-
-.. image:: aes_business.png
-    :class: with-shadow
-
-
-- Click **Start registration**
+- Go to **AES for Business** and click **Start registration**
 
 .. image:: aes_register2.png
     :class: with-shadow
 
-- You will be taken to a form to enter your company details. Once you submit the form, the AES for Business registration will start. 
+- You will be taken to a form to enter your company details
 
-- You will then receive 2 documents to sign:
+Once you submit the form, the AES for Business registration will start. 
+
+- Next, you will receive 2 documents to sign:
 
  •	**GlobalSign Schedule C**: Customer Digital Signing Service Acknowledgement and Agreement (Article 2.1 is relevant to your company.)
 
