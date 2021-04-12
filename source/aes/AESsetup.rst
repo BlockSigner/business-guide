@@ -38,15 +38,11 @@ Next, you will receive 2 documents to sign:
   
 If you are not authorised to sign these documents, please send them to the authorised signer in your company.
 
-  - **Customer Digital Signing Service Acknowledgement and Agreement**
-
-This document must be signed with the advanced (AES) or qualified (QES) electronic signature.
+  - **Customer Digital Signing Service Acknowledgement and Agreement** (This document must be signed with the advanced (AES) or qualified (QES) electronic signature.)
 
 **Note:** We recommend paying attention to Article 2.1 since it is relevant to your company.
 
-  - **GlobalSign Terms of Use**
- 
-Signing with a simple electronic signature (SES) is enough for this document.
+  - **GlobalSign Terms of Use** (Signing with a simple electronic signature (SES) is enough.)
  
 - Once both documents are signed, we will send them for verification to our partner GlobalSign
 
