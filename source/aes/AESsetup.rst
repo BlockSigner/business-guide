@@ -32,7 +32,7 @@ To set up AES for Business:
 
 Once you submit the form, the AES for Business registration will start. 
 
-- Next, you will receive 2 documents to sign:
+- Next, you will receive 2 documents to sign
 
  •	**GlobalSign Schedule C** (Customer Digital Signing Service Acknowledgement and Agreement)
 
