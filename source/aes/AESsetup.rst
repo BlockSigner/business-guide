@@ -50,7 +50,7 @@ Signing with a simple electronic signature (SES) is enough for this document.
 
 - If you have provided your company domain during the registration, GlobalSign will contact you by e-mail or phone to verify whether you have full control over your domain.
 
-**You must reply to GlobalSign to prove domain control.** If you don't, we won't be able to start setting up AES for Business for your company. This process may take a few more days. 
+**We strongly recommend verifying your domain with GlobalSign as soon as possible.** If you don't, there will be delayy in the AES for Business set up. 
 
 - Once GlobalSign has successfully verified your company details, we will set up AES for Business for your company
 
