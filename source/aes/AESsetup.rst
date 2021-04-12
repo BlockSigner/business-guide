@@ -39,19 +39,19 @@ To set up AES for Business:
 
 - You will then receive 2 documents to sign:
 
- 1. **GlobalSign Schedule C**: Customer Digital Signing Service Acknowledgement and Agreement (Article 2.1 is relevant to your company.)
+ •	**GlobalSign Schedule C**: Customer Digital Signing Service Acknowledgement and Agreement (Article 2.1 is relevant to your company.)
 
 This document must be signed with the advanced (AES) or qualified (QES) electronic signature. If you are not authorised to sign, please send the document to the authorised signatory.
 
- 2. **GlobalSign Terms of Use**
+ •	**GlobalSign Terms of Use**
  
- Simple electronic signature (SES) is enough for this document.
+ Signing with simple electronic signature (SES) is enough for this document.
 
-- Once both documents are signed, we will send them to our partner GlobalSign.
+- Once both documents are signed, we will send them for verification to our partner GlobalSign.
 
-- GlobalSign will contact you by e-mail or phone to verify your company details.
+- GlobalSign may contact you by e-mail or phone to verify that you have the control over your domain.
 
-**You must reply to GlobalSign to complete the data verification.** Please be aware that GlobalSign may also verify whether you have control over your company domain. This process may take a few more days. 
+**It is important that you reply to GlobalSign to complete the verification process.** If you don't, we won't be able to start setting up AES for Business for your company. This process may take a few more days. 
 
 - Once GlobalSign has successfully verified your company details, we will set up AES for Business for your company. 
 
