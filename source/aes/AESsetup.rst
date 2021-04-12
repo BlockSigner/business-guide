@@ -37,24 +37,26 @@ Registering your company for AES for Business
 .. image:: aes_register2.png
     :class: with-shadow
 
-You will be taken to a form to provide information necessary to register your company for AES for Business. Once you submit the form, the registration process will start. 
+You will be taken to a form to provide information to register your company for AES for Business. Once you submit the form, the registration process will start. 
 
-- Next, you will receive 2 documents to sign:
+**What happens next?**
 
-•	**GlobalSign Schedule C**: Customer Digital Signing Service Acknowledgement and Agreement (relevant for you is article 2.1)
+- You will receive 2 documents to sign:
 
-This document must be signed with the advanced (AES) or qualified (QES) electronic signature. If you are not authorised to sign this document on behalf of your company, please send it to the authorised signatory.
+ •	**GlobalSign Schedule C** (Customer Digital Signing Service Acknowledgement and Agreement)
+
+This document must be signed with the advanced (AES) or qualified (QES) electronic signature. If you are not authorised to sign this document on behalf of your company, please send it to the authorised signatory. The article 2.1 is relevant to you.
 
  •	**GlobalSign Terms of Use**
- 
-For this document simple electronic signature (SES) is enough. 
 
-- Once the documents are signed, we will submit them to our partner GlobalSign for verification (*vetting process* with GlobalSign).
+- Once the documents are signed, we will send them for verification (*vetting process*) to our partner GlobalSign.
 
-- GlobalSign will contact you to verify the company details you have provided. If you have a domain, it will be verified separately to prove that you control the domains requested. Please be aware that domain validation process may take a few more days.
+- GlobalSign will contact you to verify your company details.
 
-- Once your company details are successfully verified, we will set up AES for Business for your company. 
+If you have a domain, it will be verified separately to prove that you have control over this domain. Please be aware that this process may take a few days.
 
-- To check that everything is set up correctly, we will send you a signature invitation to sign a test document.
+- Once GlobalSign has successfully verified your company details, we will set up AES for Business for your company. 
 
-- Once you have succesfully signed the test document, AES for Business is available to all members of your Skribble Business.
+- To check that everything is set up correctly, we will send you a test document to sign.
+
+- Once you have succesfully signed it, AES for Business will be available to all members of your Skribble Business.
