@@ -12,7 +12,7 @@ Setting up AES for Business
 To register your company for AES for Business, you will need to provide the following information:
   - Commercial register number of your company
   - Name and e-mail address of an internal contact person
-  - (Optional) Domain to enable signing with AES (e.g. yourcompany.com)
+  - (Optional) Company domain (e.g. yourcompany.com)
 
 To set up AES for Business:
 
