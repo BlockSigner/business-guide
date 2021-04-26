@@ -36,11 +36,11 @@ Next, you will receive 2 documents to sign:
   - **Customer Digital Signing Service Acknowledgement and Agreement**
   - **GlobalSign Terms of Use**
   
-If you aren't authorised to sign these documents, please send them to the person who is authorised to sign on behalf of your company.
+If you aren't authorised to sign these documents, please send them to the authorised signer in your company.
 
   - **Customer Digital Signing Service Acknowledgement and Agreement** (This document must be signed with the advanced (AES) or qualified (QES) electronic signature.)
 
-**Note:** We recommend paying attention to Article 2.1 which is relevant to your company.
+**Note:** We recommend paying attention to Article 2.1, which is relevant to your company.
 
   - **GlobalSign Terms of Use** (Signing with a simple electronic signature (SES) is enough.)
  
@@ -48,10 +48,10 @@ If you aren't authorised to sign these documents, please send them to the person
 
 - GlobalSign will contact you to verify your company details and whether you have full control of your company domain. This process might take a few more days. 
 
-**You must reply to GlobalSign to prove that you fully control your domain.** If you don't reply, we'll not be able to start setting up AES for Business.
+**You must reply to GlobalSign to prove that you fully control your domain.** If you don't respond, we won't be able to start setting up AES for Business.
 
-- After GlobalSign has successfully verified your company details, we'll take care of the setup
+- After GlobalSign has successfully verified your company details, we'll carry out the setup
 
-- To check that everything is set up correctly, we'll send you a test document to sign
+- To check that everything works correctly, we'll send you a test document to sign
 
 - Once you've successfully signed it, AES for Business will be available to your Skribble Business members
