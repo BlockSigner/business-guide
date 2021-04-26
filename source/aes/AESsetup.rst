@@ -10,9 +10,9 @@ Setting up AES for Business
 .. _Pricing page: https://www.skribble.com/en/pricing/
   
 To register your company for AES for Business, you will need to provide the following information:
+  - Company domain (e.g. yourcompany.com)
   - Commercial register number of your company
   - Name and e-mail address of an internal contact person
-  - (Optional) Company domain (e.g. yourcompany.com)
 
 To set up AES for Business:
 
@@ -40,17 +40,17 @@ If you are not authorised to sign these documents, please send them to the autho
 
   - **Customer Digital Signing Service Acknowledgement and Agreement** (This document must be signed with the advanced (AES) or qualified (QES) electronic signature.)
 
-**Note:** We recommend paying attention to Article 2.1 since it is relevant to your company.
+**Note:** We recommend paying attention to Article 2.1 which is relevant to your company.
 
   - **GlobalSign Terms of Use** (Signing with a simple electronic signature (SES) is enough.)
  
 - Once both documents are signed, we will send them for verification to our partner GlobalSign
 
-- If you have provided your company domain during the registration, GlobalSign will contact you by e-mail or phone to verify whether you have full control over your domain. This process might take a few more days. 
+- GlobalSign will contact you to verify company details and whether you have full control of your company domain. This process might take a few more days. 
 
-**You must reply to GlobalSign to prove that you fully control your domain.** If you don't reply, we will not be able to start setting up AES for Business for your company.
+**You must reply to GlobalSign to prove that you fully control your domain.** If you don't reply, we'll not be able to start setting up AES for Business for your company.
 
-- Once GlobalSign has successfully verified your company details, we will set up AES for Business for your company
+- After GlobalSign has successfully verified your company details, we'll take care of the setup
 
 - To check that everything is set up correctly, we will send you a test document to sign
 
