@@ -32,17 +32,11 @@ You can request AES for Business from your Business profile.
 
 - Once you submit the form, the AES for Business registration will start
 
-Next, you will receive 2 documents to sign:
-  - **Customer Digital Signing Service Acknowledgement and Agreement**
-  - **GlobalSign Terms of Use**
+Next, you'll receive 2 documents to sign:
+  - **Customer Digital Signing Service Acknowledgement and Agreement** (must be signed with the advanced (AES) or qualified (QES) electronic signature)
+  - **GlobalSign Terms of Use** (simple electronic signature (SES) is enough)
   
 If you aren't authorised to sign these documents, please send them to the authorised signer in your company.
-
-  - **Customer Digital Signing Service Acknowledgement and Agreement** (This document must be signed with the advanced (AES) or qualified (QES) electronic signature.)
-
-**Note:** We recommend paying attention to Article 2.1, which is relevant to your company.
-
-  - **GlobalSign Terms of Use** (Signing with a simple electronic signature (SES) is enough.)
  
 - Once both documents are signed, we'll send them for verification to our partner GlobalSign
 
