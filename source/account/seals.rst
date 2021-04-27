@@ -28,26 +28,19 @@ Here you can add members and/or API keys to activate the seal. Activation is a o
 **Removing members or API keys**
 
 .. NOTE::
-   If you remove a member or an API key, they no longer can use the seal.
-
-To remove a member or an API key: 
+   If you remove a member or an API key, they will no longer be able to use the seal.
 
 - Go to **Seals** and click on the **Pencil**
 
 - Navigate to **Members** or **API keys**
 
-- Click on the **X** next to the member or an API key you want to remove
+- Click on the **X** next to the member or an API key
 
 - Click **Remove** to confirm
 
-**Visual seals**
+**Visual seals (optional)**
 
-You can upload an image to customise the visual appearance of the seal. It will be shown on the sealed documents, just like the visual signature.
-
-.. NOTE::
-   Visual seals on a document are optional and legally not required. If you decide to omit it, please inform your Skribble Business members accordingly.
-
-To add a visual seal:
+You can upload an image to customise the visual appearance of the seal. It will be shown on the sealed documents, just like the visual signature. If you decide to omit it, please inform your Skribble Business members accordingly.
 
 - Go to **Seals**
 
