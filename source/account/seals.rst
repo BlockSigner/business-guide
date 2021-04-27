@@ -1,4 +1,4 @@
-.. _account-organisation-seals:
+.. _account-seals:
 
 ===========================
 Managing organisation seals
