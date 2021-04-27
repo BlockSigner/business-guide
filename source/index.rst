@@ -34,7 +34,7 @@ This guide is intended to help company administrators set up and manage Skribble
    account/branding
    account/deletionperiod
    account/visualsignature
-   account/organisation-seals
+   account/seals
    account/cancel
 
 
