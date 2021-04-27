@@ -7,16 +7,16 @@ Managing electronic seals
 .. NOTE::
    This feature is only available to Enterprise customers. To request an electronic seal for your organisation, contact us at info@skribble.com. 
 
-Electronic seals are applied to documents on behalf of legal and not natural persons and can be used directly on my.skribble.com or via API.
+Electronic seals are applied to documents on behalf of legal and not natural persons. Your members can use them directly on my.skribble.com or via API.
 
-Once Skribble has finished the setup of your seal, you'll be able to:
+Once Skribble has finished the setup of your seal, you'll see it in your Skribble Business. As an admin, you can:
 
 •	Activate the seal
-•	Add and remove API keys and members
+•	Manage API keys and members allowed to use the seal
 •	Add a visual seal (optional)
 •	Specify a display name for members
 
-Before your members can use the seal, you’ll have to activate it by adding at least one member or an API key.
+Before your members can use the seal, you must activate it by adding at least one member or an API. Activation is a one-time thing.
 
 **Adding members or API keys**
 
@@ -24,20 +24,18 @@ Before your members can use the seal, you’ll have to activate it by adding at 
 
 - Next to the seal you want to activate, click on the **Pencil**
 
-Here you can add members and/or API keys to activate the seal. Activation is a one-time thing. Your users might use the seal directly on my.skribble.com or via the API. 
+- Navigate to **API keys** or **Members** and click **Add**
 
-- Click **Add** next to the **API keys** or **Members**
+- If you're adding **API keys**, select the key from the list and click **Add**
 
-- If you’re adding **API keys**, select the key from the list and click **Add**
+- If you're adding **Members**, enter an e-mail address of the member and click **Add**
 
-- If you’re adding **Members**, enter an e-mail address of the member and click **Add**
-
-- After this, the seal is activated and can be used by your members.
+- After this, the seal is activated, and your members can use it
 
 **Removing members or API keys**
 
 .. NOTE::
-   If you remove a member or an API key, they will no longer be able to use the seal.
+   If you remove a member or an API key, they no longer can use the seal.
 
 - Go to **Seals** and click on the **Pencil**
 
@@ -49,7 +47,7 @@ Here you can add members and/or API keys to activate the seal. Activation is a o
 
 **Visual seals (optional)**
 
-You can upload an image to customise the visual appearance of the seal. It will be shown on the sealed documents, just like the visual signature. If you decide to omit it, please inform your Skribble Business members accordingly.
+You can upload an image to customise the visual appearance of the seal. It will show on the sealed documents, just like the visual signature. If you decide to omit it, make sure you inform your Skribble Business members accordingly.
 
 - Go to **Seals**
 
