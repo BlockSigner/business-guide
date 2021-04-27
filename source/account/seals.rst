@@ -7,7 +7,16 @@ Managing electronic seals
 .. NOTE::
    This feature is only available to Enterprise customers. To request an electronic seal for your organisation, contact us at info@skribble.com. 
 
-Once we’ve set up the seal, you can manage it in your Skribble Business. **Before your members can use the seal, you’ll have to activate it by adding at least one member or an API key.** This is how it works.
+Electronic seals are applied to documents on behalf of legal and not natural persons and can be used directly on my.skribble.com or via API.
+
+Once Skribble has finished the setup of your seal, you'll be able to:
+
+•	Activate the seal
+•	Add and remove API keys and members
+•	Add a visual seal (optional)
+•	Specify a display name for members
+
+Before your members can use the seal, you’ll have to activate it by adding at least one member or an API key.
 
 **Adding members or API keys**
 
