@@ -5,13 +5,13 @@ Managing electronic seals
 =========================
 
 .. NOTE::
-   This feature is only available to Enterprise customers. To request an electronic seal for your organisation, contact us at info@skribble.com. 
+   This feature is only available to Enterprise customers. To request an electronic seal for your organisation, please contact your Account executive at Skribble.
 
 Electronic seals are applied to documents on behalf of legal and not natural persons. Your members can use them directly on my.skribble.com or via API.
 
 Once Skribble has finished the setup of your seal, you'll see it in your Skribble Business. As an admin, you can:
 
-•	Activate the seal
+•	Activate the seal (**must be done for every seal**)
 •	Manage API keys and members allowed to use the seal
 •	Add a visual seal (optional)
 •	Specify a display name for members
